@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:bf_dart/bf_dart.dart' as bf_dart;
+import 'package:bf_dart/interpleter.dart' as bf_dart;
 
 void usage () {
   print('''
