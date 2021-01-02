@@ -6,7 +6,9 @@ description: A sample command-line application.
 environment:
   sdk: '>=2.10.0 <3.0.0'
 
-#dependencies:
+dependencies:
+  kernel:
+    path: '../sdk/pkg/kernel'
 #  path: ^1.7.0
 
 dev_dependencies:
